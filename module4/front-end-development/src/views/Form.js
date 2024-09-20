@@ -28,7 +28,7 @@ export const Form = () => {
                 <input required value={firstName} onChange={(e) => setFirstName(e.target.value)} type="text" placeholder="First Name" id="firstName" name="firstName" />
 
                 <label htmlFor="LastName">Last Name*</label>
-                <input value={lastName} onChange={(e) => setLastName(e.target.value)} type="text" placeholder="Last Name" id="lastName" name="lastName" />
+                <input required value={lastName} onChange={(e) => setLastName(e.target.value)} type="text" placeholder="Last Name" id="lastName" name="lastName" />
 
                 <label htmlFor="Age">Age*</label>
                 <input required value={age} onChange={(e) => setAge(e.target.value)} type="number" placeholder="" id="age" name="age" />
