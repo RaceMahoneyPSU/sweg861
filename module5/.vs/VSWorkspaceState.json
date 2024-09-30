@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client\\src",
+    "\\client\\src\\components",
+    "\\server",
+    "\\server\\middlewares",
+    "\\server\\models",
+    "\\server\\routes"
+  ],
+  "SelectedNode": "\\server\\README.md",
+  "PreviewInSolutionExplorer": false
+}

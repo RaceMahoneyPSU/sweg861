@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\server\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\server\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\server\\routes\\form.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\form.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\src\\components\\Login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\components\\Login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\server\\routes\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\server\\models\\User.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\User.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\server\\middlewares\\passport-config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\middlewares\\passport-config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\src\\components\\Form.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\components\\Form.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\src\\components\\ProfileDashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\components\\ProfileDashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\src\\UserContext.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\UserContext.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\src\\components\\Register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\components\\Register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 108,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\server\\README.md",
+              "RelativeDocumentMoniker": "server\\README.md",
+              "ToolTip": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\server\\README.md",
+              "RelativeToolTip": "server\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-30T01:42:24.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserContext.js",
+              "DocumentMoniker": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\src\\UserContext.js",
+              "RelativeDocumentMoniker": "client\\src\\UserContext.js",
+              "ToolTip": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\src\\UserContext.js",
+              "RelativeToolTip": "client\\src\\UserContext.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-29T23:22:01.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProfileDashboard.js",
+              "DocumentMoniker": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\src\\components\\ProfileDashboard.js",
+              "RelativeDocumentMoniker": "client\\src\\components\\ProfileDashboard.js",
+              "ToolTip": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\src\\components\\ProfileDashboard.js",
+              "RelativeToolTip": "client\\src\\components\\ProfileDashboard.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-29T23:04:09.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\src\\App.css",
+              "RelativeDocumentMoniker": "client\\src\\App.css",
+              "ToolTip": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\src\\App.css",
+              "RelativeToolTip": "client\\src\\App.css",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-29T20:53:46.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.js",
+              "DocumentMoniker": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\server\\models\\User.js",
+              "RelativeDocumentMoniker": "server\\models\\User.js",
+              "ToolTip": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\server\\models\\User.js",
+              "RelativeToolTip": "server\\models\\User.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-29T20:16:02.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "form.js",
+              "DocumentMoniker": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\server\\routes\\form.js",
+              "RelativeDocumentMoniker": "server\\routes\\form.js",
+              "ToolTip": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\server\\routes\\form.js",
+              "RelativeToolTip": "server\\routes\\form.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-29T16:54:19.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "auth.js",
+              "DocumentMoniker": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\server\\routes\\auth.js",
+              "RelativeDocumentMoniker": "server\\routes\\auth.js",
+              "ToolTip": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\server\\routes\\auth.js",
+              "RelativeToolTip": "server\\routes\\auth.js",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-29T18:10:49.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "server.js",
+              "DocumentMoniker": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\server\\server.js",
+              "RelativeDocumentMoniker": "server\\server.js",
+              "ToolTip": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\server\\server.js",
+              "RelativeToolTip": "server\\server.js",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-29T19:20:05.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "passport-config.js",
+              "DocumentMoniker": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\server\\middlewares\\passport-config.js",
+              "RelativeDocumentMoniker": "server\\middlewares\\passport-config.js",
+              "ToolTip": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\server\\middlewares\\passport-config.js",
+              "RelativeToolTip": "server\\middlewares\\passport-config.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-29T18:25:29.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\src\\App.js",
+              "RelativeDocumentMoniker": "client\\src\\App.js",
+              "ToolTip": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\src\\App.js",
+              "RelativeToolTip": "client\\src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-29T17:11:38.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.js",
+              "DocumentMoniker": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\src\\components\\Register.js",
+              "RelativeDocumentMoniker": "client\\src\\components\\Register.js",
+              "ToolTip": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\src\\components\\Register.js",
+              "RelativeToolTip": "client\\src\\components\\Register.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-29T20:14:02.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\package.json",
+              "RelativeDocumentMoniker": "client\\package.json",
+              "ToolTip": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\package.json",
+              "RelativeToolTip": "client\\package.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-29T20:08:03.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 26,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form.js",
+              "DocumentMoniker": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\src\\components\\Form.js",
+              "RelativeDocumentMoniker": "client\\src\\components\\Form.js",
+              "ToolTip": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\src\\components\\Form.js",
+              "RelativeToolTip": "client\\src\\components\\Form.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-29T16:36:30.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.js",
+              "DocumentMoniker": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\src\\components\\Login.js",
+              "RelativeDocumentMoniker": "client\\src\\components\\Login.js",
+              "ToolTip": "C:\\Users\\racem\\source\\repos\\personal\\sweg861\\module5\\client\\src\\components\\Login.js",
+              "RelativeToolTip": "client\\src\\components\\Login.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-29T19:38:34.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
